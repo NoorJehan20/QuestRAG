@@ -20,32 +20,6 @@ This mini project was developed as part of the **"Project Gen AI Applications wi
 
 ---
 
-🗂️ Project Structure
-
-```
-
-QuestRAG/
-├── main.py                  # Streamlit entrypoint
-├── download.py              # (optional) model downloader
-├── requirements.txt
-├── README.md
-│
-├── app/
-│   ├── ui.py
-│   ├── rag\_chain.py
-│   ├── summarizer.py
-│   └── pdf\_handler.py
-│
-├── saved\_model/             # Local HuggingFace models (Flan-T5, MiniLM)
-├── sample\_pdfs/             # Example input PDFs (e.g., AI.pdf)
-├── chroma\_db/               # Auto-generated vector store (excluded from Git)
-├── assets/
-│   └── qa\_bot.png           # Logo
-
-````
-
----
-
 📦 Installation
 
 > Ensure Python 3.9+ is installed.
