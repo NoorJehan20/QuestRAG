@@ -1,4 +1,4 @@
-**🤖 QuestRAG: PDF QA and Summarizer Bot**
+## 🤖 QuestRAG: PDF QA and Summarizer Bot
 
 An AI-powered Streamlit web application that allows you to:
 - 📄 Upload research PDFs
@@ -9,7 +9,7 @@ This mini project was developed as part of the **"Project Gen AI Applications wi
 
 ---
 
-**🚀 Features**
+## 🚀 Features
 
 - 🧩 **LangChain-powered** RetrievalQA system
 - 📚 Upload any research PDF and extract information
@@ -19,7 +19,7 @@ This mini project was developed as part of the **"Project Gen AI Applications wi
 
 ---
 
-##📦 Installation
+## 📦 Installation
 
 > Ensure Python 3.9+ is installed.
 
