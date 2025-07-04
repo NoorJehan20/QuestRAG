@@ -1,0 +1,25 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Model and vector database (should be downloaded separately)
+saved_model/
+chroma_db/
+temp.pdf
+
+# Streamlit specific cache and folders
+.streamlit/
+.cache/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VS Code & Python environment
+.vscode/
+*.env
+*.venv
+.env/
+.venv/
