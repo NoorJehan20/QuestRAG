@@ -63,5 +63,3 @@ All models are stored locally for **offline use** in the `saved_model/` director
 
 * 💡 Developed by **Noor Jehan**
 * 🎓 Based on the course *"Project Gen AI Applications with RAG and LangChain"* by **IBM** on **Coursera**
-
-```
